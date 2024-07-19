@@ -76,7 +76,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
-
   <br/><br/><br/>
 </div>
 
