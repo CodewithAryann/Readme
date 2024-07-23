@@ -24,7 +24,7 @@
   </a>
 
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://www.linkedin.com/in/aryan-433b19304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" />
   </a>
   <a href="https://codewitharyann.github.io/Personal-Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
